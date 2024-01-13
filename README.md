@@ -12,7 +12,7 @@ As with most node.js projects, do the following
 3. Create Models and Schemas
 4. Connect the application to MongoDB
 5. npm start
-6. The last step is up to you, you can either open it in an IDE and debug it, or you can open the api.postman_collection.json with Postman, and then execute the queries
+6. The last step is up to you,  you can open the api.postman_collection.json with Postman, and then execute the queries.
 
 # Features
 - CRUD operations on categories
