@@ -34,7 +34,7 @@ As with most node.js projects, do the following
     - middlewares
 
 # Routes 
-  ## Categories
+  ## Categories (Variants)
   - Category creation : POST: http://localhost:4000/api/v1/categories ,
     Passed to body    : {       
                                   "name" : "Mobile phones",
